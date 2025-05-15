@@ -52,5 +52,5 @@ The data includes detailed service-level water usage and billing information:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/nyc-water-dashboard.git
-cd nyc-water-dashboard
+git clone https://github.com/Nihil25/NYC_Water_Consumption_Analytics_Dashboard.git
+cd NYC_Water_Consumption_Analytics_Dashboard
