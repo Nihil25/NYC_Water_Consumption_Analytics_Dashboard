@@ -2,9 +2,7 @@
 
 This project visualizes water consumption data across New York City boroughs using a Power BI dashboard. The goal is to analyze trends, costs, and efficiencies in water usage over time using data stored in a MySQL database and processed in Python.
 
-![Dashboard Preview](./245cb761-c05e-4f86-8fc7-9c4270e45a8c.png)
-
----
+![Dashboard Preview]---(https://github.com/Nihil25/NYC_Water_Consumption_Analytics_Dashboard/blob/main/Preview%20of%20dashboard.png)
 
 ## 📊 Dashboard Features
 
